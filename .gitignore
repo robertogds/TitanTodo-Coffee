@@ -1,0 +1,6 @@
+build/
+build.log
+.fastdev.lock
+.project
+*.js
+!Resources/lib/*
