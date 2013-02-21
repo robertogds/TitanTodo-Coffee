@@ -13,6 +13,6 @@ ApplicationTabGroup = (Window) ->
 	
 	self.addTab(mainTab)
 	
-	return self
+	self
 
 module.exports = ApplicationTabGroup

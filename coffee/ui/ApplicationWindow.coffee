@@ -31,6 +31,6 @@ ApplicationWindow = (title) ->
 		table.appendRow new taskRow(newTaskText.value)
 		newTaskText.setValue('')
 
-	return self
+	self
 
 module.exports = ApplicationWindow

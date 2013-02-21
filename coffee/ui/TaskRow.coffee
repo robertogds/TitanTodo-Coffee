@@ -50,6 +50,6 @@ TaskRow = (title) ->
 			taskTitle.color = '#000'
 			active = true
 			
-	return self
+	self
 
 module.exports = TaskRow
